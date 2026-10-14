@@ -1,6 +1,6 @@
 [submodule "limine"]
 	path = limine
 	url = https://github.com/limine-bootloader/limine
-[submodule "arch/x86_64"]
-	path = arch/x86_64
+[submodule "Hakura_Base"]
+	path = Hakura_Base
 	url = https://github.com/Silicon-Native/Hakura
